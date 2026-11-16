@@ -1,0 +1,351 @@
+client_id,client_name,industry_sector,company_size,credit_tier,credit_limit_usd,contracted_terms,annual_contract_value_usd,gross_margin_pct
+CLI-0001,Apex Freight Lines #001,Logistics,Core Mid-Market,Tier 2 Standard,29200.0,Net-60,76584.33,26.64
+CLI-0002,Vanguard Freight Lines #002,Logistics,Upper Mid-Market,Tier 1 Prime,274500.0,Net-45,607767.39,31.64
+CLI-0003,Meridian Cloud Systems #003,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,358000.0,Net-30,795803.96,70.71
+CLI-0004,Titanium Cloud Systems #004,SaaS/Tech,Core Mid-Market,Tier 4 High-Risk,35500.0,Net-60,194807.32,74.56
+CLI-0005,Nexus Industrial Corp #005,Manufacturing,Core Mid-Market,Tier 3 Watchlist,51700.0,2/10 Net-30,220053.64,37.7
+CLI-0006,Stratos Industrial Corp #006,Manufacturing,Upper Mid-Market,Tier 1 Prime,337300.0,Net-30,800610.2,37.26
+CLI-0007,Aegis Commercial Distributors #007,Wholesale,Upper Mid-Market,Tier 3 Watchlist,167500.0,Net-30,776552.25,32.39
+CLI-0008,Pinnacle Industrial Corp #008,Manufacturing,Upper Mid-Market,Tier 3 Watchlist,106400.0,Net-60,438697.68,30.17
+CLI-0009,Omni Industrial Corp #009,Manufacturing,Upper Mid-Market,Tier 1 Prime,88500.0,Net-45,188411.31,34.98
+CLI-0010,Vertex MedTech Supplies #010,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,133800.0,Net-30,452072.53,42.85
+CLI-0011,Kestrel Commercial Distributors #011,Wholesale,Enterprise,Tier 1 Prime,1459000.0,Net-30,3324264.05,29.79
+CLI-0012,Helios Freight Lines #012,Logistics,Core Mid-Market,Tier 2 Standard,51700.0,Net-30,183420.66,20.02
+CLI-0013,Covenant MedTech Supplies #013,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,323600.0,Net-30,765856.45,43.41
+CLI-0014,Atlas Cloud Systems #014,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,67600.0,Net-30,178140.21,74.8
+CLI-0015,Quantum Freight Lines #015,Logistics,Core Mid-Market,Tier 1 Prime,142100.0,Net-60,335994.69,24.97
+CLI-0016,Cobalt Industrial Corp #016,Manufacturing,Upper Mid-Market,Tier 4 High-Risk,132700.0,Net-30,700188.32,30.44
+CLI-0017,Ironclad Commercial Distributors #017,Wholesale,Core Mid-Market,Tier 3 Watchlist,66700.0,Net-45,263636.98,27.8
+CLI-0018,Pacific Industrial Corp #018,Manufacturing,Enterprise,Tier 2 Standard,483600.0,Net-45,1678207.5,42.78
+CLI-0019,Continental MedTech Supplies #019,Healthcare Supply,Core Mid-Market,Tier 1 Prime,66700.0,Net-45,150352.7,42.67
+CLI-0020,Sterling Commercial Distributors #020,Wholesale,Core Mid-Market,Tier 2 Standard,281900.0,Net-30,862211.28,31.07
+CLI-0021,Monarch MedTech Supplies #021,Healthcare Supply,Enterprise,Tier 2 Standard,278900.0,Net-30,868532.8,43.16
+CLI-0022,Borealis Freight Lines #022,Logistics,Enterprise,Tier 4 High-Risk,57600.0,Net-45,294900.19,25.73
+CLI-0023,Vector Freight Lines #023,Logistics,Enterprise,Tier 3 Watchlist,80000.0,2/10 Net-30,386060.27,22.37
+CLI-0024,Valiant Cloud Systems #024,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,106500.0,Net-30,466347.68,70.9
+CLI-0025,Keystone Cloud Systems #025,SaaS/Tech,Enterprise,Tier 4 High-Risk,76700.0,Net-30,355775.76,73.21
+CLI-0026,Horizon Freight Lines #026,Logistics,Core Mid-Market,Tier 4 High-Risk,92600.0,Net-45,459327.18,23.95
+CLI-0027,Summit Cloud Systems #027,SaaS/Tech,Core Mid-Market,Tier 1 Prime,42200.0,Net-30,107643.29,83.56
+CLI-0028,Crescent Commercial Distributors #028,Wholesale,Enterprise,Tier 1 Prime,178300.0,Net-45,442962.52,32.22
+CLI-0029,Redwood Commercial Distributors #029,Wholesale,Enterprise,Tier 2 Standard,574300.0,Net-30,2002600.13,32.22
+CLI-0030,Granite Industrial Corp #030,Manufacturing,Upper Mid-Market,Tier 2 Standard,112300.0,Net-45,310303.92,39.5
+CLI-0031,Orion Freight Lines #031,Logistics,Enterprise,Tier 1 Prime,227700.0,2/10 Net-30,567601.38,31.01
+CLI-0032,Hyperion Freight Lines #032,Logistics,Upper Mid-Market,Tier 4 High-Risk,65900.0,2/10 Net-30,350333.06,26.88
+CLI-0033,Solstice Industrial Corp #033,Manufacturing,Upper Mid-Market,Tier 1 Prime,846200.0,2/10 Net-30,1712398.54,32.28
+CLI-0034,Avalon MedTech Supplies #034,Healthcare Supply,Enterprise,Tier 3 Watchlist,196200.0,Net-30,724038.04,31.12
+CLI-0035,Paladin MedTech Supplies #035,Healthcare Supply,Core Mid-Market,Tier 2 Standard,77100.0,Net-45,245767.74,50.74
+CLI-0036,Synergy MedTech Supplies #036,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,74700.0,Net-30,280143.39,55.02
+CLI-0037,Citadel Industrial Corp #037,Manufacturing,Upper Mid-Market,Tier 1 Prime,628900.0,Net-30,1562120.08,32.53
+CLI-0038,Beacon Commercial Distributors #038,Wholesale,Upper Mid-Market,Tier 1 Prime,72700.0,Net-30,201758.04,27.67
+CLI-0039,Vortex Industrial Corp #039,Manufacturing,Upper Mid-Market,Tier 1 Prime,237800.0,Net-60,588968.59,34.32
+CLI-0040,Equinox Bulk Trade Co #040,Wholesale,Enterprise,Tier 3 Watchlist,1047600.0,Net-30,4657168.3,36.87
+CLI-0041,Apex DataWorks AI #041,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,98600.0,Net-45,205524.83,73.84
+CLI-0042,Vanguard Bulk Trade Co #042,Wholesale,Core Mid-Market,Tier 1 Prime,63500.0,2/10 Net-30,133647.19,30.32
+CLI-0043,Meridian BioLogistics Corp #043,Healthcare Supply,Enterprise,Tier 3 Watchlist,333300.0,Net-45,1207368.91,28.6
+CLI-0044,Titanium DataWorks AI #044,SaaS/Tech,Enterprise,Tier 2 Standard,79000.0,Net-30,247928.84,84.09
+CLI-0045,Nexus DataWorks AI #045,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,65300.0,Net-45,214012.77,81.1
+CLI-0046,Stratos Bulk Trade Co #046,Wholesale,Upper Mid-Market,Tier 2 Standard,452300.0,Net-45,1310766.53,33.14
+CLI-0047,Aegis BioLogistics Corp #047,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,104400.0,Net-60,298446.46,42.86
+CLI-0048,Pinnacle BioLogistics Corp #048,Healthcare Supply,Core Mid-Market,Tier 1 Prime,50600.0,Net-30,134246.61,36.97
+CLI-0049,Omni Global Supply Chain #049,Logistics,Core Mid-Market,Tier 2 Standard,38500.0,2/10 Net-30,128241.76,19.92
+CLI-0050,Vertex Precision Dynamics #050,Manufacturing,Enterprise,Tier 2 Standard,472800.0,Net-45,1458472.12,35.83
+CLI-0051,Kestrel Global Supply Chain #051,Logistics,Upper Mid-Market,Tier 3 Watchlist,61300.0,Net-45,286259.8,18.09
+CLI-0052,Helios Precision Dynamics #052,Manufacturing,Upper Mid-Market,Tier 2 Standard,274100.0,Net-60,885843.37,35.4
+CLI-0053,Covenant Global Supply Chain #053,Logistics,Upper Mid-Market,Tier 1 Prime,138000.0,Net-30,364351.58,31.0
+CLI-0054,Atlas DataWorks AI #054,SaaS/Tech,Core Mid-Market,Tier 2 Standard,50900.0,Net-45,141504.54,77.91
+CLI-0055,Quantum DataWorks AI #055,SaaS/Tech,Core Mid-Market,Tier 4 High-Risk,74500.0,2/10 Net-30,360777.36,70.56
+CLI-0056,Cobalt Precision Dynamics #056,Manufacturing,Upper Mid-Market,Tier 2 Standard,439000.0,Net-30,1204630.41,26.49
+CLI-0057,Ironclad DataWorks AI #057,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,150300.0,2/10 Net-30,528410.32,55.83
+CLI-0058,Pacific Bulk Trade Co #058,Wholesale,Core Mid-Market,Tier 1 Prime,104700.0,Net-30,282705.77,30.15
+CLI-0059,Continental Precision Dynamics #059,Manufacturing,Enterprise,Tier 1 Prime,816400.0,Net-60,1663102.67,37.13
+CLI-0060,Sterling Precision Dynamics #060,Manufacturing,Enterprise,Tier 1 Prime,175500.0,Net-45,447599.89,20.0
+CLI-0061,Monarch Precision Dynamics #061,Manufacturing,Core Mid-Market,Tier 3 Watchlist,163000.0,Net-60,593939.02,33.59
+CLI-0062,Borealis Precision Dynamics #062,Manufacturing,Core Mid-Market,Tier 2 Standard,52100.0,Net-60,179877.29,25.12
+CLI-0063,Vector Precision Dynamics #063,Manufacturing,Core Mid-Market,Tier 1 Prime,46800.0,2/10 Net-30,128317.71,27.76
+CLI-0064,Valiant Precision Dynamics #064,Manufacturing,Core Mid-Market,Tier 3 Watchlist,45600.0,Net-30,207755.39,27.58
+CLI-0065,Keystone DataWorks AI #065,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,158800.0,Net-45,560098.98,69.6
+CLI-0066,Horizon BioLogistics Corp #066,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,182100.0,2/10 Net-30,738311.18,46.09
+CLI-0067,Summit BioLogistics Corp #067,Healthcare Supply,Enterprise,Tier 1 Prime,866300.0,Net-30,2063031.65,46.0
+CLI-0068,Crescent BioLogistics Corp #068,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,54600.0,Net-30,177625.3,41.25
+CLI-0069,Redwood DataWorks AI #069,SaaS/Tech,Enterprise,Tier 2 Standard,363600.0,Net-45,1037069.59,70.01
+CLI-0070,Granite BioLogistics Corp #070,Healthcare Supply,Core Mid-Market,Tier 2 Standard,58900.0,Net-45,172282.86,59.59
+CLI-0071,Orion BioLogistics Corp #071,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,80100.0,2/10 Net-30,323282.82,39.32
+CLI-0072,Hyperion DataWorks AI #072,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,189200.0,Net-30,688561.49,74.57
+CLI-0073,Solstice DataWorks AI #073,SaaS/Tech,Enterprise,Tier 2 Standard,64500.0,Net-30,235652.07,58.06
+CLI-0074,Avalon Bulk Trade Co #074,Wholesale,Enterprise,Tier 2 Standard,109300.0,Net-45,349397.59,26.28
+CLI-0075,Paladin Bulk Trade Co #075,Wholesale,Upper Mid-Market,Tier 3 Watchlist,42700.0,Net-60,180446.02,29.5
+CLI-0076,Synergy Precision Dynamics #076,Manufacturing,Upper Mid-Market,Tier 1 Prime,167500.0,Net-30,349050.23,43.77
+CLI-0077,Citadel BioLogistics Corp #077,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,178700.0,Net-30,754215.56,52.73
+CLI-0078,Beacon Global Supply Chain #078,Logistics,Upper Mid-Market,Tier 2 Standard,88200.0,Net-30,236131.66,28.26
+CLI-0079,Vortex Precision Dynamics #079,Manufacturing,Upper Mid-Market,Tier 1 Prime,44800.0,Net-45,121214.93,23.88
+CLI-0080,Equinox Supply Partners #080,Wholesale,Upper Mid-Market,Tier 2 Standard,116500.0,Net-60,418424.2,23.96
+CLI-0081,Apex Clinical Diagnostics #081,Healthcare Supply,Core Mid-Market,Tier 2 Standard,145800.0,Net-45,396780.9,43.48
+CLI-0082,Vanguard Supply Partners #082,Wholesale,Core Mid-Market,Tier 2 Standard,48300.0,Net-30,152655.45,30.67
+CLI-0083,Meridian Clinical Diagnostics #083,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,265800.0,Net-30,538835.67,47.29
+CLI-0084,Titanium Enterprise Software #084,SaaS/Tech,Enterprise,Tier 2 Standard,152300.0,Net-30,444042.42,61.82
+CLI-0085,Nexus Clinical Diagnostics #085,Healthcare Supply,Core Mid-Market,Tier 2 Standard,31400.0,2/10 Net-30,82575.01,42.24
+CLI-0086,Stratos Supply Partners #086,Wholesale,Core Mid-Market,Tier 1 Prime,71300.0,Net-45,157430.45,37.06
+CLI-0087,Aegis Supply Partners #087,Wholesale,Core Mid-Market,Tier 1 Prime,75700.0,Net-60,201767.0,22.59
+CLI-0088,Pinnacle Intermodal Transit #088,Logistics,Core Mid-Market,Tier 2 Standard,26800.0,Net-45,84371.75,23.11
+CLI-0089,Omni Fabrication Group #089,Manufacturing,Core Mid-Market,Tier 2 Standard,134000.0,2/10 Net-30,485158.78,23.89
+CLI-0090,Vertex Fabrication Group #090,Manufacturing,Upper Mid-Market,Tier 1 Prime,341600.0,Net-60,705372.76,26.3
+CLI-0091,Kestrel Intermodal Transit #091,Logistics,Enterprise,Tier 1 Prime,207900.0,Net-60,581350.43,27.34
+CLI-0092,Helios Intermodal Transit #092,Logistics,Upper Mid-Market,Tier 1 Prime,328600.0,2/10 Net-30,838370.49,13.94
+CLI-0093,Covenant Enterprise Software #093,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,80500.0,Net-45,354559.99,70.67
+CLI-0094,Atlas Fabrication Group #094,Manufacturing,Upper Mid-Market,Tier 1 Prime,415700.0,Net-60,825103.34,35.03
+CLI-0095,Quantum Enterprise Software #095,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,82000.0,2/10 Net-30,184541.59,73.15
+CLI-0096,Cobalt Supply Partners #096,Wholesale,Enterprise,Tier 2 Standard,130800.0,Net-45,443841.78,30.6
+CLI-0097,Ironclad Enterprise Software #097,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,49400.0,Net-45,138583.37,65.68
+CLI-0098,Pacific Enterprise Software #098,SaaS/Tech,Enterprise,Tier 4 High-Risk,211800.0,Net-30,1136283.37,54.05
+CLI-0099,Continental Clinical Diagnostics #099,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,277800.0,Net-30,959848.29,58.3
+CLI-0100,Sterling Clinical Diagnostics #100,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,138100.0,Net-45,480108.07,40.87
+CLI-0101,Monarch Intermodal Transit #101,Logistics,Core Mid-Market,Tier 4 High-Risk,55200.0,Net-30,345987.54,23.71
+CLI-0102,Borealis Supply Partners #102,Wholesale,Upper Mid-Market,Tier 2 Standard,33800.0,Net-30,119216.4,25.09
+CLI-0103,Vector Enterprise Software #103,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,340200.0,Net-45,933390.33,64.78
+CLI-0104,Valiant Enterprise Software #104,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,265700.0,Net-30,640225.18,76.53
+CLI-0105,Keystone Fabrication Group #105,Manufacturing,Core Mid-Market,Tier 1 Prime,113800.0,Net-30,265292.77,24.62
+CLI-0106,Horizon Enterprise Software #106,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,119600.0,Net-30,532996.38,61.52
+CLI-0107,Summit Intermodal Transit #107,Logistics,Upper Mid-Market,Tier 1 Prime,89900.0,2/10 Net-30,211646.65,28.24
+CLI-0108,Crescent Fabrication Group #108,Manufacturing,Enterprise,Tier 1 Prime,424300.0,2/10 Net-30,1102952.99,38.84
+CLI-0109,Redwood Fabrication Group #109,Manufacturing,Enterprise,Tier 2 Standard,195000.0,Net-45,531087.23,34.59
+CLI-0110,Granite Supply Partners #110,Wholesale,Enterprise,Tier 2 Standard,151300.0,Net-60,503626.13,27.5
+CLI-0111,Orion Enterprise Software #111,SaaS/Tech,Core Mid-Market,Tier 2 Standard,40700.0,Net-45,132327.98,76.48
+CLI-0112,Hyperion Clinical Diagnostics #112,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,309100.0,Net-30,855265.81,33.3
+CLI-0113,Solstice Fabrication Group #113,Manufacturing,Core Mid-Market,Tier 1 Prime,356400.0,Net-60,883100.42,35.53
+CLI-0114,Avalon Clinical Diagnostics #114,Healthcare Supply,Enterprise,Tier 1 Prime,600400.0,Net-60,1391263.38,36.18
+CLI-0115,Paladin Fabrication Group #115,Manufacturing,Core Mid-Market,Tier 1 Prime,148900.0,Net-45,304465.56,34.27
+CLI-0116,Synergy Clinical Diagnostics #116,Healthcare Supply,Enterprise,Tier 2 Standard,163200.0,Net-30,535140.62,46.35
+CLI-0117,Citadel Supply Partners #117,Wholesale,Upper Mid-Market,Tier 1 Prime,335900.0,Net-30,851933.75,24.77
+CLI-0118,Beacon Clinical Diagnostics #118,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,399300.0,Net-60,1118780.87,36.53
+CLI-0119,Vortex Enterprise Software #119,SaaS/Tech,Enterprise,Tier 2 Standard,308900.0,2/10 Net-30,972309.57,67.6
+CLI-0120,Equinox Mercantile Group #120,Wholesale,Upper Mid-Market,Tier 2 Standard,67800.0,Net-30,232374.26,36.19
+CLI-0121,Apex Mercantile Group #121,Wholesale,Enterprise,Tier 4 High-Risk,58700.0,Net-45,281633.19,29.15
+CLI-0122,Vanguard PharmaSource Inc #122,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,175900.0,2/10 Net-30,826414.09,41.72
+CLI-0123,Meridian Mercantile Group #123,Wholesale,Enterprise,Tier 3 Watchlist,533800.0,Net-30,2591895.05,38.53
+CLI-0124,Titanium Cybernetics Inc #124,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,81000.0,Net-45,317343.39,77.96
+CLI-0125,Nexus Cybernetics Inc #125,SaaS/Tech,Core Mid-Market,Tier 2 Standard,144300.0,Net-45,459119.59,73.95
+CLI-0126,Stratos Heavy Systems Ltd #126,Manufacturing,Upper Mid-Market,Tier 1 Prime,317600.0,Net-30,808581.69,25.35
+CLI-0127,Aegis Cargo Express #127,Logistics,Enterprise,Tier 3 Watchlist,87800.0,Net-30,354077.64,23.08
+CLI-0128,Pinnacle Cybernetics Inc #128,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,196500.0,2/10 Net-30,457075.36,58.29
+CLI-0129,Omni Cybernetics Inc #129,SaaS/Tech,Core Mid-Market,Tier 1 Prime,144800.0,2/10 Net-30,288542.53,64.22
+CLI-0130,Vertex Mercantile Group #130,Wholesale,Enterprise,Tier 1 Prime,246700.0,Net-30,664416.29,20.48
+CLI-0131,Kestrel PharmaSource Inc #131,Healthcare Supply,Enterprise,Tier 2 Standard,338900.0,Net-30,922326.88,39.94
+CLI-0132,Helios Cargo Express #132,Logistics,Upper Mid-Market,Tier 1 Prime,197300.0,Net-45,419226.32,33.94
+CLI-0133,Covenant Mercantile Group #133,Wholesale,Core Mid-Market,Tier 1 Prime,130600.0,Net-30,271351.1,25.24
+CLI-0134,Atlas Cybernetics Inc #134,SaaS/Tech,Enterprise,Tier 2 Standard,665400.0,Net-60,1798697.08,65.26
+CLI-0135,Quantum PharmaSource Inc #135,Healthcare Supply,Enterprise,Tier 1 Prime,325900.0,Net-30,668375.08,40.57
+CLI-0136,Cobalt PharmaSource Inc #136,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,148100.0,Net-45,516611.14,44.04
+CLI-0137,Ironclad Mercantile Group #137,Wholesale,Core Mid-Market,Tier 2 Standard,109400.0,Net-30,370624.69,28.56
+CLI-0138,Pacific Heavy Systems Ltd #138,Manufacturing,Core Mid-Market,Tier 1 Prime,174300.0,Net-30,409827.84,35.74
+CLI-0139,Continental PharmaSource Inc #139,Healthcare Supply,Core Mid-Market,Tier 1 Prime,19200.0,2/10 Net-30,45000.0,46.71
+CLI-0140,Sterling Mercantile Group #140,Wholesale,Enterprise,Tier 2 Standard,220000.0,Net-30,643739.72,28.99
+CLI-0141,Monarch Cargo Express #141,Logistics,Core Mid-Market,Tier 1 Prime,75300.0,Net-45,210842.56,19.18
+CLI-0142,Borealis Cybernetics Inc #142,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,162600.0,Net-30,361298.89,73.56
+CLI-0143,Vector Mercantile Group #143,Wholesale,Core Mid-Market,Tier 2 Standard,68900.0,Net-45,203173.38,31.22
+CLI-0144,Valiant Mercantile Group #144,Wholesale,Enterprise,Tier 2 Standard,297900.0,Net-60,1077441.4,21.98
+CLI-0145,Keystone Mercantile Group #145,Wholesale,Core Mid-Market,Tier 3 Watchlist,44700.0,Net-45,194763.83,36.4
+CLI-0146,Horizon Cybernetics Inc #146,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,182000.0,Net-45,737632.86,72.92
+CLI-0147,Summit Cybernetics Inc #147,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,192800.0,Net-45,673889.21,74.38
+CLI-0148,Crescent Cargo Express #148,Logistics,Upper Mid-Market,Tier 2 Standard,59100.0,Net-30,200910.49,23.5
+CLI-0149,Redwood Mercantile Group #149,Wholesale,Upper Mid-Market,Tier 1 Prime,147400.0,Net-30,390604.82,32.1
+CLI-0150,Granite Cargo Express #150,Logistics,Enterprise,Tier 4 High-Risk,49500.0,Net-45,232371.7,15.1
+CLI-0151,Orion Cybernetics Inc #151,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,175300.0,2/10 Net-30,502649.8,75.4
+CLI-0152,Hyperion Cybernetics Inc #152,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,208800.0,Net-45,757382.29,65.32
+CLI-0153,Solstice PharmaSource Inc #153,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,134400.0,Net-30,359123.8,47.26
+CLI-0154,Avalon Mercantile Group #154,Wholesale,Core Mid-Market,Tier 4 High-Risk,50900.0,Net-60,277896.98,22.11
+CLI-0155,Paladin Cybernetics Inc #155,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,188400.0,Net-30,592541.49,82.18
+CLI-0156,Synergy Cargo Express #156,Logistics,Enterprise,Tier 3 Watchlist,111300.0,Net-30,410810.96,33.23
+CLI-0157,Citadel Heavy Systems Ltd #157,Manufacturing,Enterprise,Tier 3 Watchlist,82000.0,Net-45,372478.8,35.36
+CLI-0158,Beacon Cybernetics Inc #158,SaaS/Tech,Core Mid-Market,Tier 2 Standard,84000.0,2/10 Net-30,292134.26,75.03
+CLI-0159,Vortex Cybernetics Inc #159,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,33500.0,Net-30,153291.53,70.06
+CLI-0160,Equinox Surgical Systems #160,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,155100.0,Net-60,404032.29,43.6
+CLI-0161,Apex Machinery Inc #161,Manufacturing,Core Mid-Market,Tier 3 Watchlist,146000.0,Net-30,609185.84,37.59
+CLI-0162,Vanguard Fleet Solutions #162,Logistics,Core Mid-Market,Tier 2 Standard,46100.0,2/10 Net-30,144666.65,30.2
+CLI-0163,Meridian Fleet Solutions #163,Logistics,Upper Mid-Market,Tier 3 Watchlist,116400.0,2/10 Net-30,419106.0,31.67
+CLI-0164,Titanium Machinery Inc #164,Manufacturing,Enterprise,Tier 2 Standard,321500.0,Net-30,1001886.36,32.59
+CLI-0165,Nexus Machinery Inc #165,Manufacturing,Core Mid-Market,Tier 2 Standard,95700.0,Net-30,259886.82,28.63
+CLI-0166,Stratos Surgical Systems #166,Healthcare Supply,Enterprise,Tier 3 Watchlist,526400.0,Net-45,2333233.21,44.22
+CLI-0167,Aegis Surgical Systems #167,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,41000.0,Net-45,185139.6,44.09
+CLI-0168,Pinnacle Machinery Inc #168,Manufacturing,Enterprise,Tier 1 Prime,787100.0,Net-30,1893976.21,39.78
+CLI-0169,Omni Machinery Inc #169,Manufacturing,Upper Mid-Market,Tier 2 Standard,204100.0,Net-45,535305.37,19.29
+CLI-0170,Vertex Machinery Inc #170,Manufacturing,Upper Mid-Market,Tier 1 Prime,92500.0,Net-30,210075.03,28.83
+CLI-0171,Kestrel Fleet Solutions #171,Logistics,Enterprise,Tier 3 Watchlist,96400.0,Net-30,393724.08,25.42
+CLI-0172,Helios Platform Labs #172,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,62100.0,Net-45,273835.68,74.92
+CLI-0173,Covenant Platform Labs #173,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,128600.0,Net-30,434750.53,69.79
+CLI-0174,Atlas Surgical Systems #174,Healthcare Supply,Core Mid-Market,Tier 1 Prime,296400.0,Net-45,599333.41,48.5
+CLI-0175,Quantum Machinery Inc #175,Manufacturing,Enterprise,Tier 2 Standard,710800.0,Net-60,2510813.82,26.06
+CLI-0176,Cobalt Platform Labs #176,SaaS/Tech,Enterprise,Tier 1 Prime,212200.0,2/10 Net-30,517623.47,65.84
+CLI-0177,Ironclad Platform Labs #177,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,190500.0,Net-30,385891.45,53.44
+CLI-0178,Pacific Machinery Inc #178,Manufacturing,Upper Mid-Market,Tier 1 Prime,569000.0,Net-30,1216191.08,41.74
+CLI-0179,Continental Surgical Systems #179,Healthcare Supply,Enterprise,Tier 4 High-Risk,358800.0,Net-45,1686426.07,47.36
+CLI-0180,Sterling Fleet Solutions #180,Logistics,Core Mid-Market,Tier 1 Prime,97600.0,Net-45,234871.8,22.04
+CLI-0181,Monarch Machinery Inc #181,Manufacturing,Enterprise,Tier 2 Standard,746000.0,Net-30,2207113.16,44.1
+CLI-0182,Borealis Platform Labs #182,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,40500.0,2/10 Net-30,128095.08,61.08
+CLI-0183,Vector Platform Labs #183,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,82300.0,Net-60,267398.6,77.42
+CLI-0184,Valiant Platform Labs #184,SaaS/Tech,Enterprise,Tier 1 Prime,339900.0,Net-60,874763.6,68.87
+CLI-0185,Keystone Fleet Solutions #185,Logistics,Core Mid-Market,Tier 1 Prime,145800.0,2/10 Net-30,320248.98,33.68
+CLI-0186,Horizon National Wholesale #186,Wholesale,Core Mid-Market,Tier 2 Standard,72900.0,Net-45,263874.87,37.1
+CLI-0187,Summit Surgical Systems #187,Healthcare Supply,Core Mid-Market,Tier 1 Prime,44200.0,2/10 Net-30,103884.77,44.36
+CLI-0188,Crescent Fleet Solutions #188,Logistics,Core Mid-Market,Tier 2 Standard,106500.0,Net-45,352401.66,23.8
+CLI-0189,Redwood Fleet Solutions #189,Logistics,Upper Mid-Market,Tier 2 Standard,61300.0,2/10 Net-30,166570.07,20.21
+CLI-0190,Granite Surgical Systems #190,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,206400.0,Net-30,844110.59,42.49
+CLI-0191,Orion National Wholesale #191,Wholesale,Upper Mid-Market,Tier 2 Standard,106600.0,Net-45,373714.68,33.02
+CLI-0192,Hyperion National Wholesale #192,Wholesale,Upper Mid-Market,Tier 1 Prime,176700.0,2/10 Net-30,407581.74,21.57
+CLI-0193,Solstice Fleet Solutions #193,Logistics,Upper Mid-Market,Tier 1 Prime,60900.0,Net-45,167740.86,30.84
+CLI-0194,Avalon Surgical Systems #194,Healthcare Supply,Enterprise,Tier 1 Prime,138000.0,Net-30,371845.74,49.26
+CLI-0195,Paladin Platform Labs #195,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,107300.0,Net-30,387155.2,70.5
+CLI-0196,Synergy Platform Labs #196,SaaS/Tech,Enterprise,Tier 2 Standard,153900.0,Net-45,405727.84,74.29
+CLI-0197,Citadel Fleet Solutions #197,Logistics,Core Mid-Market,Tier 2 Standard,111600.0,Net-30,305122.06,27.76
+CLI-0198,Beacon National Wholesale #198,Wholesale,Upper Mid-Market,Tier 1 Prime,149500.0,2/10 Net-30,359891.53,27.11
+CLI-0199,Vortex Machinery Inc #199,Manufacturing,Upper Mid-Market,Tier 4 High-Risk,144400.0,Net-30,675676.42,41.97
+CLI-0200,Equinox Commercial Distributors #200,Wholesale,Core Mid-Market,Tier 3 Watchlist,94000.0,2/10 Net-30,331747.74,28.88
+CLI-0201,Apex Freight Lines #201,Logistics,Upper Mid-Market,Tier 2 Standard,312700.0,2/10 Net-30,891132.32,12.0
+CLI-0202,Vanguard Cloud Systems #202,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,287300.0,Net-45,1023682.76,74.35
+CLI-0203,Meridian Cloud Systems #203,SaaS/Tech,Upper Mid-Market,Tier 4 High-Risk,99500.0,Net-30,599629.02,85.04
+CLI-0204,Titanium Industrial Corp #204,Manufacturing,Core Mid-Market,Tier 2 Standard,174600.0,2/10 Net-30,629314.33,32.78
+CLI-0205,Nexus Industrial Corp #205,Manufacturing,Upper Mid-Market,Tier 1 Prime,359700.0,2/10 Net-30,801183.9,37.08
+CLI-0206,Stratos Freight Lines #206,Logistics,Core Mid-Market,Tier 2 Standard,134100.0,2/10 Net-30,475235.71,37.15
+CLI-0207,Aegis Cloud Systems #207,SaaS/Tech,Upper Mid-Market,Tier 4 High-Risk,62500.0,Net-60,379786.28,81.81
+CLI-0208,Pinnacle MedTech Supplies #208,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,251400.0,Net-30,864117.88,42.37
+CLI-0209,Omni Industrial Corp #209,Manufacturing,Upper Mid-Market,Tier 1 Prime,213900.0,Net-45,507891.79,16.27
+CLI-0210,Vertex MedTech Supplies #210,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,78500.0,Net-30,263857.48,43.14
+CLI-0211,Kestrel Industrial Corp #211,Manufacturing,Upper Mid-Market,Tier 4 High-Risk,58100.0,2/10 Net-30,370261.74,37.06
+CLI-0212,Helios MedTech Supplies #212,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,576600.0,Net-60,2243445.96,54.71
+CLI-0213,Covenant Freight Lines #213,Logistics,Core Mid-Market,Tier 2 Standard,104700.0,Net-45,288386.06,26.2
+CLI-0214,Atlas Freight Lines #214,Logistics,Enterprise,Tier 2 Standard,231500.0,Net-60,786764.93,25.93
+CLI-0215,Quantum Freight Lines #215,Logistics,Enterprise,Tier 4 High-Risk,54100.0,Net-30,332382.6,34.53
+CLI-0216,Cobalt Cloud Systems #216,SaaS/Tech,Core Mid-Market,Tier 2 Standard,122500.0,Net-60,419992.26,78.15
+CLI-0217,Ironclad MedTech Supplies #217,Healthcare Supply,Enterprise,Tier 1 Prime,477600.0,Net-30,1090678.33,37.57
+CLI-0218,Pacific Industrial Corp #218,Manufacturing,Core Mid-Market,Tier 2 Standard,151500.0,Net-60,470072.79,30.6
+CLI-0219,Continental Cloud Systems #219,SaaS/Tech,Enterprise,Tier 2 Standard,343600.0,Net-45,1149223.51,71.7
+CLI-0220,Sterling Cloud Systems #220,SaaS/Tech,Enterprise,Tier 1 Prime,619100.0,Net-45,1505264.83,60.22
+CLI-0221,Monarch Freight Lines #221,Logistics,Upper Mid-Market,Tier 4 High-Risk,29500.0,Net-60,136730.9,12.25
+CLI-0222,Borealis Commercial Distributors #222,Wholesale,Core Mid-Market,Tier 4 High-Risk,82200.0,Net-45,534094.99,18.33
+CLI-0223,Vector MedTech Supplies #223,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,85500.0,Net-45,300788.2,38.24
+CLI-0224,Valiant Freight Lines #224,Logistics,Core Mid-Market,Tier 3 Watchlist,44700.0,2/10 Net-30,194021.1,27.18
+CLI-0225,Keystone Cloud Systems #225,SaaS/Tech,Core Mid-Market,Tier 2 Standard,43700.0,Net-30,143345.61,74.77
+CLI-0226,Horizon Industrial Corp #226,Manufacturing,Core Mid-Market,Tier 1 Prime,58900.0,Net-45,128817.33,29.63
+CLI-0227,Summit Industrial Corp #227,Manufacturing,Enterprise,Tier 3 Watchlist,284600.0,2/10 Net-30,1090580.76,27.12
+CLI-0228,Crescent Industrial Corp #228,Manufacturing,Core Mid-Market,Tier 1 Prime,199900.0,Net-30,475271.17,34.15
+CLI-0229,Redwood Freight Lines #229,Logistics,Upper Mid-Market,Tier 3 Watchlist,40400.0,2/10 Net-30,197886.29,31.14
+CLI-0230,Granite Commercial Distributors #230,Wholesale,Enterprise,Tier 1 Prime,443100.0,Net-45,1197311.69,28.4
+CLI-0231,Orion Freight Lines #231,Logistics,Enterprise,Tier 2 Standard,187800.0,Net-30,576613.53,18.95
+CLI-0232,Hyperion MedTech Supplies #232,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,113300.0,Net-45,402443.45,53.47
+CLI-0233,Solstice Freight Lines #233,Logistics,Enterprise,Tier 3 Watchlist,74400.0,Net-45,338912.7,32.79
+CLI-0234,Avalon Cloud Systems #234,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,68400.0,2/10 Net-30,301102.51,71.7
+CLI-0235,Paladin Industrial Corp #235,Manufacturing,Upper Mid-Market,Tier 4 High-Risk,31700.0,Net-30,177731.67,29.44
+CLI-0236,Synergy Industrial Corp #236,Manufacturing,Core Mid-Market,Tier 2 Standard,125100.0,Net-30,340618.44,19.93
+CLI-0237,Citadel Industrial Corp #237,Manufacturing,Core Mid-Market,Tier 1 Prime,84700.0,Net-30,180618.03,33.9
+CLI-0238,Beacon Freight Lines #238,Logistics,Core Mid-Market,Tier 4 High-Risk,41900.0,Net-45,224981.2,18.64
+CLI-0239,Vortex Freight Lines #239,Logistics,Upper Mid-Market,Tier 3 Watchlist,42900.0,Net-30,174399.47,25.4
+CLI-0240,Equinox BioLogistics Corp #240,Healthcare Supply,Core Mid-Market,Tier 2 Standard,247800.0,2/10 Net-30,699058.07,41.69
+CLI-0241,Apex BioLogistics Corp #241,Healthcare Supply,Core Mid-Market,Tier 1 Prime,254200.0,2/10 Net-30,516721.35,58.32
+CLI-0242,Vanguard DataWorks AI #242,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,86800.0,2/10 Net-30,272757.32,72.01
+CLI-0243,Meridian DataWorks AI #243,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,110100.0,2/10 Net-30,480050.17,70.41
+CLI-0244,Titanium DataWorks AI #244,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,107300.0,2/10 Net-30,361838.64,64.82
+CLI-0245,Nexus BioLogistics Corp #245,Healthcare Supply,Enterprise,Tier 2 Standard,222800.0,Net-30,808749.45,43.15
+CLI-0246,Stratos Bulk Trade Co #246,Wholesale,Core Mid-Market,Tier 1 Prime,53000.0,Net-30,113555.58,29.89
+CLI-0247,Aegis Precision Dynamics #247,Manufacturing,Core Mid-Market,Tier 2 Standard,28300.0,Net-30,102933.05,27.23
+CLI-0248,Pinnacle Global Supply Chain #248,Logistics,Core Mid-Market,Tier 2 Standard,205600.0,Net-45,637823.06,27.3
+CLI-0249,Omni Precision Dynamics #249,Manufacturing,Core Mid-Market,Tier 3 Watchlist,97100.0,Net-30,449832.84,27.92
+CLI-0250,Vertex Bulk Trade Co #250,Wholesale,Upper Mid-Market,Tier 4 High-Risk,32700.0,Net-30,206226.94,22.01
+CLI-0251,Kestrel Precision Dynamics #251,Manufacturing,Enterprise,Tier 4 High-Risk,105800.0,Net-30,558125.49,34.44
+CLI-0252,Helios BioLogistics Corp #252,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,61900.0,Net-45,256123.31,49.49
+CLI-0253,Covenant BioLogistics Corp #253,Healthcare Supply,Core Mid-Market,Tier 1 Prime,104900.0,Net-30,266681.37,47.04
+CLI-0254,Atlas DataWorks AI #254,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,70400.0,Net-30,306389.98,78.25
+CLI-0255,Quantum Global Supply Chain #255,Logistics,Upper Mid-Market,Tier 4 High-Risk,136300.0,Net-45,725283.07,34.55
+CLI-0256,Cobalt BioLogistics Corp #256,Healthcare Supply,Enterprise,Tier 2 Standard,245300.0,Net-60,703945.63,37.66
+CLI-0257,Ironclad DataWorks AI #257,SaaS/Tech,Enterprise,Tier 2 Standard,155800.0,Net-30,438622.95,68.84
+CLI-0258,Pacific Global Supply Chain #258,Logistics,Upper Mid-Market,Tier 2 Standard,152600.0,Net-45,466524.43,27.05
+CLI-0259,Continental BioLogistics Corp #259,Healthcare Supply,Enterprise,Tier 3 Watchlist,75700.0,Net-45,268973.99,48.13
+CLI-0260,Sterling BioLogistics Corp #260,Healthcare Supply,Upper Mid-Market,Tier 4 High-Risk,169400.0,Net-30,1065293.35,43.95
+CLI-0261,Monarch DataWorks AI #261,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,43000.0,Net-30,198124.2,68.06
+CLI-0262,Borealis Precision Dynamics #262,Manufacturing,Upper Mid-Market,Tier 2 Standard,148200.0,Net-60,414894.52,22.47
+CLI-0263,Vector Bulk Trade Co #263,Wholesale,Core Mid-Market,Tier 2 Standard,24000.0,2/10 Net-30,80622.07,30.37
+CLI-0264,Valiant DataWorks AI #264,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,358700.0,2/10 Net-30,825674.87,70.17
+CLI-0265,Keystone Bulk Trade Co #265,Wholesale,Enterprise,Tier 4 High-Risk,87400.0,Net-45,507718.47,33.3
+CLI-0266,Horizon Bulk Trade Co #266,Wholesale,Core Mid-Market,Tier 4 High-Risk,46700.0,2/10 Net-30,269322.04,31.07
+CLI-0267,Summit BioLogistics Corp #267,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,431000.0,Net-45,1393269.53,40.48
+CLI-0268,Crescent Precision Dynamics #268,Manufacturing,Core Mid-Market,Tier 1 Prime,40000.0,Net-45,85461.85,27.29
+CLI-0269,Redwood Precision Dynamics #269,Manufacturing,Enterprise,Tier 2 Standard,232000.0,Net-60,830579.01,36.85
+CLI-0270,Granite BioLogistics Corp #270,Healthcare Supply,Core Mid-Market,Tier 1 Prime,62800.0,Net-30,148594.9,37.49
+CLI-0271,Orion Precision Dynamics #271,Manufacturing,Core Mid-Market,Tier 3 Watchlist,74300.0,Net-30,265565.58,31.78
+CLI-0272,Hyperion Precision Dynamics #272,Manufacturing,Upper Mid-Market,Tier 1 Prime,126800.0,Net-60,255060.32,23.03
+CLI-0273,Solstice DataWorks AI #273,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,223300.0,Net-30,716879.55,68.8
+CLI-0274,Avalon Precision Dynamics #274,Manufacturing,Upper Mid-Market,Tier 2 Standard,219600.0,Net-45,605334.0,37.26
+CLI-0275,Paladin Precision Dynamics #275,Manufacturing,Upper Mid-Market,Tier 2 Standard,134700.0,Net-30,453425.18,24.69
+CLI-0276,Synergy DataWorks AI #276,SaaS/Tech,Core Mid-Market,Tier 1 Prime,253200.0,2/10 Net-30,512832.3,71.09
+CLI-0277,Citadel Bulk Trade Co #277,Wholesale,Enterprise,Tier 4 High-Risk,136400.0,Net-60,649245.33,25.1
+CLI-0278,Beacon BioLogistics Corp #278,Healthcare Supply,Core Mid-Market,Tier 1 Prime,23900.0,Net-45,57044.69,50.15
+CLI-0279,Vortex Precision Dynamics #279,Manufacturing,Enterprise,Tier 3 Watchlist,74000.0,Net-60,303803.09,33.67
+CLI-0280,Equinox Enterprise Software #280,SaaS/Tech,Core Mid-Market,Tier 4 High-Risk,67900.0,Net-45,407284.81,69.17
+CLI-0281,Apex Supply Partners #281,Wholesale,Enterprise,Tier 3 Watchlist,232500.0,2/10 Net-30,843648.32,25.61
+CLI-0282,Vanguard Clinical Diagnostics #282,Healthcare Supply,Enterprise,Tier 4 High-Risk,50700.0,Net-60,312030.26,33.18
+CLI-0283,Meridian Intermodal Transit #283,Logistics,Enterprise,Tier 2 Standard,232200.0,Net-45,764130.76,17.12
+CLI-0284,Titanium Supply Partners #284,Wholesale,Core Mid-Market,Tier 2 Standard,43600.0,Net-45,126449.61,26.07
+CLI-0285,Nexus Supply Partners #285,Wholesale,Enterprise,Tier 2 Standard,153600.0,Net-30,553953.03,30.19
+CLI-0286,Stratos Fabrication Group #286,Manufacturing,Upper Mid-Market,Tier 2 Standard,121900.0,Net-45,442240.72,44.18
+CLI-0287,Aegis Enterprise Software #287,SaaS/Tech,Enterprise,Tier 2 Standard,772100.0,Net-30,2389331.47,73.19
+CLI-0288,Pinnacle Intermodal Transit #288,Logistics,Upper Mid-Market,Tier 2 Standard,111400.0,Net-45,337840.9,22.16
+CLI-0289,Omni Enterprise Software #289,SaaS/Tech,Core Mid-Market,Tier 1 Prime,129100.0,2/10 Net-30,289742.01,72.62
+CLI-0290,Vertex Enterprise Software #290,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,409600.0,2/10 Net-30,1973631.33,67.34
+CLI-0291,Kestrel Clinical Diagnostics #291,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,237000.0,2/10 Net-30,559684.82,51.13
+CLI-0292,Helios Enterprise Software #292,SaaS/Tech,Core Mid-Market,Tier 2 Standard,92900.0,Net-45,245802.52,73.12
+CLI-0293,Covenant Clinical Diagnostics #293,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,297900.0,2/10 Net-30,596167.19,44.78
+CLI-0294,Atlas Clinical Diagnostics #294,Healthcare Supply,Upper Mid-Market,Tier 3 Watchlist,30900.0,Net-30,130700.89,41.13
+CLI-0295,Quantum Supply Partners #295,Wholesale,Upper Mid-Market,Tier 1 Prime,190500.0,Net-30,492874.98,26.69
+CLI-0296,Cobalt Fabrication Group #296,Manufacturing,Enterprise,Tier 2 Standard,530400.0,Net-30,1505583.5,29.42
+CLI-0297,Ironclad Enterprise Software #297,SaaS/Tech,Upper Mid-Market,Tier 3 Watchlist,109300.0,Net-30,469440.33,77.37
+CLI-0298,Pacific Clinical Diagnostics #298,Healthcare Supply,Enterprise,Tier 1 Prime,542300.0,Net-60,1140142.02,41.04
+CLI-0299,Continental Clinical Diagnostics #299,Healthcare Supply,Core Mid-Market,Tier 3 Watchlist,197500.0,2/10 Net-30,907261.36,46.28
+CLI-0300,Sterling Clinical Diagnostics #300,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,318400.0,Net-30,804168.76,41.95
+CLI-0301,Monarch Fabrication Group #301,Manufacturing,Enterprise,Tier 1 Prime,270000.0,Net-30,700680.55,33.79
+CLI-0302,Borealis Enterprise Software #302,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,167900.0,Net-30,569755.09,73.11
+CLI-0303,Vector Supply Partners #303,Wholesale,Upper Mid-Market,Tier 4 High-Risk,63700.0,Net-45,315576.14,29.98
+CLI-0304,Valiant Supply Partners #304,Wholesale,Upper Mid-Market,Tier 4 High-Risk,127100.0,Net-60,737171.0,24.98
+CLI-0305,Keystone Fabrication Group #305,Manufacturing,Core Mid-Market,Tier 4 High-Risk,30100.0,Net-30,194201.0,32.32
+CLI-0306,Horizon Intermodal Transit #306,Logistics,Core Mid-Market,Tier 2 Standard,80100.0,Net-30,251570.78,28.48
+CLI-0307,Summit Enterprise Software #307,SaaS/Tech,Upper Mid-Market,Tier 1 Prime,181300.0,Net-45,456980.86,73.51
+CLI-0308,Crescent Enterprise Software #308,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,150500.0,Net-45,458528.81,73.35
+CLI-0309,Redwood Enterprise Software #309,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,178200.0,2/10 Net-30,468084.09,69.35
+CLI-0310,Granite Supply Partners #310,Wholesale,Enterprise,Tier 3 Watchlist,390000.0,Net-45,1430093.35,35.3
+CLI-0311,Orion Enterprise Software #311,SaaS/Tech,Enterprise,Tier 4 High-Risk,78700.0,Net-45,501932.23,65.4
+CLI-0312,Hyperion Intermodal Transit #312,Logistics,Upper Mid-Market,Tier 1 Prime,221900.0,Net-30,592486.14,20.62
+CLI-0313,Solstice Supply Partners #313,Wholesale,Upper Mid-Market,Tier 1 Prime,291800.0,Net-45,691247.25,26.39
+CLI-0314,Avalon Fabrication Group #314,Manufacturing,Upper Mid-Market,Tier 4 High-Risk,167200.0,2/10 Net-30,792131.98,41.48
+CLI-0315,Paladin Fabrication Group #315,Manufacturing,Core Mid-Market,Tier 4 High-Risk,32400.0,Net-30,178386.7,32.2
+CLI-0316,Synergy Fabrication Group #316,Manufacturing,Enterprise,Tier 4 High-Risk,212900.0,Net-60,1369915.32,31.76
+CLI-0317,Citadel Enterprise Software #317,SaaS/Tech,Enterprise,Tier 2 Standard,92800.0,2/10 Net-30,250678.32,71.15
+CLI-0318,Beacon Enterprise Software #318,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,72800.0,Net-30,232496.85,72.26
+CLI-0319,Vortex Enterprise Software #319,SaaS/Tech,Enterprise,Tier 1 Prime,288400.0,Net-60,707269.04,68.22
+CLI-0320,Equinox Cargo Express #320,Logistics,Upper Mid-Market,Tier 2 Standard,126000.0,2/10 Net-30,337010.95,28.19
+CLI-0321,Apex Heavy Systems Ltd #321,Manufacturing,Upper Mid-Market,Tier 2 Standard,336400.0,2/10 Net-30,1191361.76,28.8
+CLI-0322,Vanguard Heavy Systems Ltd #322,Manufacturing,Upper Mid-Market,Tier 3 Watchlist,54700.0,Net-60,212928.88,29.39
+CLI-0323,Meridian Cargo Express #323,Logistics,Core Mid-Market,Tier 3 Watchlist,54100.0,Net-30,243342.19,36.93
+CLI-0324,Titanium PharmaSource Inc #324,Healthcare Supply,Enterprise,Tier 2 Standard,816100.0,Net-30,2767649.39,37.74
+CLI-0325,Nexus Mercantile Group #325,Wholesale,Enterprise,Tier 3 Watchlist,474200.0,Net-30,1799632.93,22.03
+CLI-0326,Stratos Cybernetics Inc #326,SaaS/Tech,Enterprise,Tier 1 Prime,176500.0,Net-60,493423.92,80.16
+CLI-0327,Aegis Mercantile Group #327,Wholesale,Upper Mid-Market,Tier 3 Watchlist,198000.0,Net-45,856006.84,30.66
+CLI-0328,Pinnacle Cybernetics Inc #328,SaaS/Tech,Core Mid-Market,Tier 2 Standard,45700.0,2/10 Net-30,145156.42,70.64
+CLI-0329,Omni Cybernetics Inc #329,SaaS/Tech,Enterprise,Tier 1 Prime,114800.0,Net-60,233271.59,74.91
+CLI-0330,Vertex Heavy Systems Ltd #330,Manufacturing,Enterprise,Tier 2 Standard,44200.0,Net-30,149630.52,45.32
+CLI-0331,Kestrel PharmaSource Inc #331,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,322600.0,Net-45,1122004.56,46.75
+CLI-0332,Helios Cargo Express #332,Logistics,Upper Mid-Market,Tier 3 Watchlist,36300.0,Net-45,166138.21,31.71
+CLI-0333,Covenant Cargo Express #333,Logistics,Core Mid-Market,Tier 1 Prime,442300.0,Net-30,921816.7,23.46
+CLI-0334,Atlas Heavy Systems Ltd #334,Manufacturing,Core Mid-Market,Tier 1 Prime,96900.0,Net-30,230891.55,31.04
+CLI-0335,Quantum PharmaSource Inc #335,Healthcare Supply,Core Mid-Market,Tier 2 Standard,149900.0,Net-30,539572.98,52.21
+CLI-0336,Cobalt Mercantile Group #336,Wholesale,Upper Mid-Market,Tier 2 Standard,183800.0,Net-30,586983.12,27.65
+CLI-0337,Ironclad PharmaSource Inc #337,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,42800.0,Net-30,148359.92,30.68
+CLI-0338,Pacific PharmaSource Inc #338,Healthcare Supply,Upper Mid-Market,Tier 1 Prime,91100.0,2/10 Net-30,240219.32,43.8
+CLI-0339,Continental Heavy Systems Ltd #339,Manufacturing,Core Mid-Market,Tier 3 Watchlist,121700.0,Net-30,579491.47,42.88
+CLI-0340,Sterling Cargo Express #340,Logistics,Enterprise,Tier 2 Standard,130700.0,Net-45,434554.92,22.54
+CLI-0341,Monarch Heavy Systems Ltd #341,Manufacturing,Upper Mid-Market,Tier 2 Standard,194400.0,2/10 Net-30,522650.05,26.89
+CLI-0342,Borealis Cybernetics Inc #342,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,444100.0,Net-30,1274762.31,65.01
+CLI-0343,Vector Cybernetics Inc #343,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,310400.0,Net-30,937481.23,65.82
+CLI-0344,Valiant Mercantile Group #344,Wholesale,Enterprise,Tier 1 Prime,1095300.0,Net-60,2238272.89,16.8
+CLI-0345,Keystone Heavy Systems Ltd #345,Manufacturing,Upper Mid-Market,Tier 3 Watchlist,119300.0,Net-60,451380.28,24.8
+CLI-0346,Horizon Cybernetics Inc #346,SaaS/Tech,Core Mid-Market,Tier 3 Watchlist,93900.0,Net-45,389973.75,71.69
+CLI-0347,Summit Mercantile Group #347,Wholesale,Enterprise,Tier 1 Prime,222900.0,Net-45,505341.41,26.79
+CLI-0348,Crescent Cybernetics Inc #348,SaaS/Tech,Upper Mid-Market,Tier 2 Standard,293200.0,Net-60,852809.72,67.12
+CLI-0349,Redwood PharmaSource Inc #349,Healthcare Supply,Upper Mid-Market,Tier 2 Standard,231600.0,Net-30,699686.17,29.77
+CLI-0350,Granite Cargo Express #350,Logistics,Upper Mid-Market,Tier 1 Prime,85800.0,Net-30,179336.46,32.78
